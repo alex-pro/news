@@ -8,4 +8,4 @@
 
   *3. npm start*
 
-#### **Application will start on [http://localhost:3000]**
+#### Application will start on **[localhost:3000] (http://localhost:3000)**
