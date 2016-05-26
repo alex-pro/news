@@ -1,0 +1,17 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Par Alex",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  },
+  "dependencies": {
+    "wolfy87-eventemitter": "^5.0.0"
+  }
+}
